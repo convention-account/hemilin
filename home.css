@@ -1,0 +1,73 @@
+.menu li {
+    display: inline-block;
+    vertical-align: top;
+    padding: 25px;
+    color: #ffffff;
+}
+.menu li:hover {
+    background-color: #000000;
+    cursor: pointer;
+    color: #f8f8f8;
+}
+.menu ul {
+    position: relative;
+    margin-top: auto;
+    padding-right: 0%;
+}
+.toptext{
+    font: 100% Verdana;
+    color: #ffffff;
+    text-align: center;
+}
+.titletext{
+    text-align: center;
+    font: 150% Verdana;
+    color: #ffffff;
+}
+.photocompany{
+    text-align: center;
+    padding: 50px;
+}
+.titletext2{
+    text-align: center;
+    font: 150% Verdana;
+    color: #ffffff;
+}
+.toptext2{
+    font: 100% Verdana;
+    color: #ffffff;
+    text-align: center;
+}
+.titletext3{
+    text-align: center;
+    font: 150% Verdana;
+    color: #fff
+}
+.photocompany2{
+    text-align: center;
+    padding: 50px;
+}
+P.line {
+    border-left: 1px dotted red;
+    padding: 10px;
+}
+.titletext4{
+    text-align: center;
+    font: 150% Verdana;
+    color: #fff
+}
+.toptext5{
+    font: 100% Verdana;
+    color: #ffffff;
+    text-align: center;
+}
+.toptext6{
+    font: 50% Verdana;
+    color: #ffffff;
+    text-align: center;
+}
+.toptext7{
+    font: 40% Verdana;
+    color: #ffffff;
+    text-align: center;
+}
